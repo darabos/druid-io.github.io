@@ -158,6 +158,12 @@ LiquidM uses Druid for real-time drill-down reporting. LiquidM is also contribut
 
 * [Streaming SQL and Druid](https://youtu.be/ovZ9iAkQllo)
 
+## Lynx Analytics
+
+[Lynx Analytics](https://www.lynxanalytics.com/) provides data science insights for hundreds of millions of customers for
+our clients. We build interactive dashboards backed by Druid to make the data science results easy to digest. Our clients
+love being able to explore the data in detail. The speed with which they can do that is all thanks to Druid!
+
 ## Marchex
 
 Marchex uses Druid to provide data for Marchex Call Analytics' new customer facing Speech Analytics dashboards.
